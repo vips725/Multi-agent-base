@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { AnimatePresence, motion } from "motion/react"
 import { Crown, X } from 'lucide-react'
 import { useSelector } from 'react-redux'
